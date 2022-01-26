@@ -22,7 +22,7 @@ public class users {
     private String email;
     private Integer ID;
 
-    //////constuct function
+    //////construct function
     public users() {
     }
 
@@ -30,7 +30,7 @@ public class users {
     public users(String email) {
         this.email = email;
     }
-
+	//constructor for adding a new user
     public users(String name, Integer age, String email, Integer id) {
         this.fullName = name;
         this.age = age;
