@@ -141,7 +141,7 @@ public class addUser extends javax.swing.JFrame {
         users users = new users(name, age, email, id, job);
         users.saveToXML();
     }//GEN-LAST:event_jButton1ActionPerformed
-
+//we use this event and without using button for showing our jobs
     private void jComboBox2PopupMenuWillBecomeVisible(javax.swing.event.PopupMenuEvent evt) {//GEN-FIRST:event_jComboBox2PopupMenuWillBecomeVisible
         List<jobs> job = new ArrayList();
         if (jComboBox2.getItemCount() == 0) {
