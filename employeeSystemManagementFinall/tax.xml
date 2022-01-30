@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><taxes>
+<tax><id>1</id><amount>12</amount><taxname>teacher</taxname></tax><tax><id>2</id><amount>15</amount><taxname>developer</taxname></tax></taxes>

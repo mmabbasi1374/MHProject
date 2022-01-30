@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><jobs>
     
 
-<job><jobTitle>a</jobTitle><salary>1</salary><tax>1</tax></job><job><jobTitle>c</jobTitle><salary>3</salary><tax>3</tax></job><job><jobTitle>b</jobTitle><salary>2</salary><tax>2</tax></job></jobs>
+<job><jobTitle>Teacher</jobTitle><salary>500</salary><tax>20</tax></job><job><jobTitle>Teacher</jobTitle><salary>500</salary><tax>20</tax></job><job><jobTitle>webdeveloper</jobTitle><salary>1500</salary><tax>27</tax></job><job><jobTitle>webdesigner</jobTitle><salary>1300</salary><tax>27</tax></job></jobs>

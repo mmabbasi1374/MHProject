@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><users>
+<user><id>1</id><name>jhon</name><email>a@a.com</email><age>22</age><jobTitle>teacher</jobTitle><tax>12</tax></user><user><id>2</id><name>bob</name><email>b@a.com</email><age>33</age><jobTitle>developer</jobTitle><tax>15</tax></user></users>
